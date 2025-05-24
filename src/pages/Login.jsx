@@ -72,6 +72,9 @@ const Login = () => {
           </Link>
 
         </p>
+      <p className="mt-6 text-center text-sm text-gray-400">
+          Done by <span className="font-semibold text-blue-600">Vishal Yadav</span>
+        </p>
       </div>
     </div>
   );

@@ -98,6 +98,9 @@ const Register = () => {
             Login here
           </a>
         </p>
+        <p className="mt-6 text-center text-sm text-gray-400">
+          Done by <span className="font-semibold text-green-600">Vishal Yadav</span>
+        </p>
       </div>
     </div>
   );
